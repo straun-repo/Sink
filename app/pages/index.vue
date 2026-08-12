@@ -11,7 +11,7 @@ const { title, description } = useAppConfig()
   >
     <div class="flex max-w-xl flex-col items-center text-center">
       <img
-        src="/straun.svg"
+        src="/forestgrove.svg"
         :alt="`${title} logo`"
         width="96"
         height="96"
