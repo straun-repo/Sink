@@ -1,3 +1,4 @@
+// Forest Grove Links instance
 export default defineAppConfig({
   title: 'Forest Grove Links',
   documentation: 'https://docs.sink.cool',
