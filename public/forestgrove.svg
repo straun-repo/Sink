@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Forest Grove">
+  <g fill="none" stroke="#BD9923" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M30 20 L70 20 L88 44 L50 86 L12 44 Z"/>
+    <path d="M12 44 L88 44"/>
+    <path d="M30 20 L40 44 L50 20 L60 44 L70 20"/>
+    <path d="M40 44 L50 86 L60 44"/>
+  </g>
+</svg>
