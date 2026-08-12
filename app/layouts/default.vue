@@ -39,7 +39,7 @@ const { title } = useAppConfig()
             >
               <span class="flex size-8 items-center justify-center rounded-full">
                 <img
-                  src="/straun.svg"
+                  src="/forestgrove.svg"
                   :alt="`${title} Logo`"
                   width="32"
                   height="32"
@@ -85,7 +85,7 @@ const { title } = useAppConfig()
           >
             <span class="flex size-6 items-center justify-center rounded-full">
               <img
-                src="/straun.svg"
+                src="/forestgrove.svg"
                 :alt="`${title} Logo`"
                 width="24"
                 height="24"
@@ -94,7 +94,7 @@ const { title } = useAppConfig()
             </span>
             <span class="text-sm font-black">{{ title }}</span>
           </NuxtLink>
-          <span class="text-sm text-muted-foreground">© Straun Group</span>
+          <span class="text-sm text-muted-foreground">© Forest Grove</span>
         </div>
       </div>
     </footer>
